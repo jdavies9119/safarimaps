@@ -1,0 +1,40 @@
+#landing_page_itro {
+    color: black;
+    justify-content: center ;
+    text-align: center;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    color: black;
+    border: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+   
+}
+
+h1{
+justify-content: center ;
+text-align: center;
+}
+
+h2{}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    text-justify: auto;
+    background-size:cover;
+    background-color: rgb(212, 203, 106);
+}
+
+#landingbutton{
+    width: 100px;
+    height: 50px;
+    border: solid;
+    border-radius: 25px;
+}
